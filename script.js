@@ -18,7 +18,7 @@
 //     1. For example “click on an image and make it dissappear”
 //     2. For example “click on a piece of text and make it shrink”
 //     3. For example “click on a button and delete some CSS”
-//        (toggleFont, titleElement, boxesElement, columnRightsideElement)
+//          (toggleFont, titleElement, boxesElement, columnRightsideElement)
 
 // Storing the HTML code in a JavaScript variable
 var titleHTML = `
